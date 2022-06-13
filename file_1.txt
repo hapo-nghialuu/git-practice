@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 tuan da sua file
+=======
+file 1
+file 1
+file 1
+file 1
+file 1
+file 1
+file 1
+file 1
+file 1
+file 1
+>>>>>>> 0ecde1f769da1635c938c881e31d24771f151020
