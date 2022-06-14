@@ -1,0 +1,13 @@
+/* Dùng Đúng dạng css  */
+
+.content {
+   width: 100%;
+}
+
+.text-header,
+.text-content {
+  width: 100%;
+  text-align: center;
+  border: 0;
+}
+

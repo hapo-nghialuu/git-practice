@@ -1,0 +1,14 @@
+.content {
+    .text-content { 
+        p {
+
+        }
+    }
+
+    .text-header {
+        p {
+
+        }
+    }
+    @include transition(background 0.5s ease);
+}
